@@ -43,9 +43,6 @@ html_theme_options = {
     'show_powered_by': False,
 }
 
-# raw_enabled is not a standard Sphinx config option, so you can remove it
-# raw_enabled = True
-
 # Paths to templates and static files
 # templates_path = ['_templates']
 # html_static_path = ['_static']  # Uncomment if you have static assets
