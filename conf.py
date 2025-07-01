@@ -44,7 +44,7 @@ html_theme_options = {
 }
 
 # Paths to templates and static files
-# templates_path = ['_templates']
+templates_path = ['_templates']
 # html_static_path = ['_static']  # Uncomment if you have static assets
 
 # Patterns to ignore when looking for source files
